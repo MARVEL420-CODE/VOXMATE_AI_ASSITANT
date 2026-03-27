@@ -1,0 +1,13 @@
+voxmate/
+│
+├── agent.py
+|__authorized_faces_deep/
+                 |___face_img1
+                 |___face_img2
+├── face_auth_deepface.py
+├── prompts.py
+├── tools.py
+├── requirements.txt
+├── .env                
+├── .gitignore
+├── README.md
